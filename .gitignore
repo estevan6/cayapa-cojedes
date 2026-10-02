@@ -1,0 +1,10 @@
+# Entornos virtuales de Python
+env/
+venv/
+__pycache__/
+*.pyc
+
+# Archivos de configuración local o temporales de Pluma/Gedit
+*.swp
+*~
+.env
